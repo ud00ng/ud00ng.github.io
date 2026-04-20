@@ -1,5 +1,7 @@
-title: blog
-description: backend
+title: ud00ng
+description: blog
+url: "https://ud00ng.github.io"
+baseurl: ""
 theme: minima
-
-url: https://ud00ng.github.io
+plugins:
+  - jekyll-feed
